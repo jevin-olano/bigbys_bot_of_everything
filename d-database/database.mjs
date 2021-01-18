@@ -81,4 +81,4 @@ client.on('message', async message => {
 
 // D&DATABASE LOGS INTO SERVER USING THE TOKEN BELOW
 
-client.login('NzI3NjMwNDk2MjA4NjUwMzAw.XvupIw.aYK3b8hHio4bPQ8Gkbf0vckLJGk');
+client.login('ODAwMTA1MjQzMTMxOTA0MDIw.YANSEw.h-C2yoxGgI-rZM5KfoeDd4MdqoI');

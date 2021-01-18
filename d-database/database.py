@@ -5,7 +5,7 @@ import time
 import asyncio
 import os
 
-TOKEN = "NzI3NjMwNDk2MjA4NjUwMzAw.XvupIw.aYK3b8hHio4bPQ8Gkbf0vckLJGk"
+TOKEN = "ODAwMTA1MjQzMTMxOTA0MDIw.YANSEw.h-C2yoxGgI-rZM5KfoeDd4MdqoI"
 GUILD = "Acquisitions Incorporated"
 
 client = discord.Client()
